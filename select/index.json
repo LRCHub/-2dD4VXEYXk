@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Rose Horizon（feat. STORi）",
+  "base_artist": "Yellow Claw",
+  "createdAt": "2026-03-30T05:09:36.567931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rose Horizon (Feat. STORi)",
+      "artist": "Yellow Claw",
+      "has_synced": true,
+      "path": "select/01_Rose_Horizon_(Feat._STORi)_Yellow_Claw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rose Horizon (feat. STORi)",
+      "artist": "Yellow Claw/Stori",
+      "has_synced": true,
+      "path": "select/02_Rose_Horizon_(feat._STORi)_Yellow_Claw_Stori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rose Horizon (feat. STORi)",
+      "artist": "Yelloe Claw",
+      "has_synced": true,
+      "path": "select/03_Rose_Horizon_(feat._STORi)_Yelloe_Claw.lrc"
+    }
+  ]
+}
